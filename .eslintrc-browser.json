@@ -17,7 +17,8 @@
 	"env": {},
 
 	"globals": {
-		"window": true
+		"window": true,
+		"fetch": true
 	},
 
 	"rules": {
